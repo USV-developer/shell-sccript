@@ -12,7 +12,7 @@ Using `git clone`:
 
 ```shell
 git clone https://github.com/USV-developer/shell-sccript/ip-changer.git
-cd gr33n37-ip-changer
+cd ip-changer
 ```
 
 Using `curl`:
